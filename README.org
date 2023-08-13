@@ -2,8 +2,9 @@
 
 Convert coordinates between Latitude/Longitude and Open Location Code
 
+
 |---------+--------------------------------------|
 | source  | git:https://codeberg.org/glv/olc.git |
-| commit  | 0269ed7474                           |
+| commit  | 0269ed7                              |
 | systems | olc                                  |
 |---------+--------------------------------------|

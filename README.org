@@ -2,9 +2,10 @@
 
 Open Location Code (Plus Codes) implementation
 
-|---------+---------------------------------------------|
-| source  | git:https://codeberg.org/glv/olc.git        |
-| commit  | 517e27f                                     |
-| systems | olc                                         |
-|---------+---------------------------------------------|
+|---------+--------------------------------------|
+| source  | git:https://codeberg.org/glv/olc.git |
+| commit  | 0269ed7                              |
+| systems | olc                                  |
+|---------+--------------------------------------|
+---------------------------------|
 
